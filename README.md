@@ -31,5 +31,5 @@ special snake game, the snake has more ables like shrinking or stretching also t
      style="width: 250px; height=250;"/>
   </td>
 </tr>
-
+  
 </table>
